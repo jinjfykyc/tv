@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTM3U x-tvg-url="https://cdn.ucass.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合[高清]
 http://114.246.181.31:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合[高清]
@@ -59,15 +59,15 @@ http://123.120.14.68:4022/rtp/239.3.1.214:4220
 http://123.122.140.106:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际 美洲[高清]
 http://124.65.0.27:20000/rtp/239.3.1.214:4220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育[高清]
 http://114.246.181.31:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育[高清]
 http://114.253.255.83:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育[高清]
 http://123.120.14.68:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育[高清]
 http://123.122.140.106:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育[高清]
 http://124.65.0.27:20000/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事[高清]
 http://114.246.181.31:4022/rtp/239.3.1.130:8004
@@ -199,15 +199,15 @@ http://123.120.14.68:4022/rtp/239.3.1.151:8144
 http://123.122.140.106:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村[高清]
 http://124.65.0.27:20000/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K 超高清[超清HDR]
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清[超清HDR]
 http://114.246.181.31:4022/rtp/239.3.1.245:2000
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K 超高清[超清HDR]
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清[超清HDR]
 http://114.253.255.83:4022/rtp/239.3.1.245:2000
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K 超高清[超清HDR]
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清[超清HDR]
 http://123.120.14.68:4022/rtp/239.3.1.245:2000
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K 超高清[超清HDR]
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清[超清HDR]
 http://123.122.140.106:4022/rtp/239.3.1.245:2000
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K 超高清[超清HDR]
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清[超清HDR]
 http://124.65.0.27:20000/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视[超清HDR]
 http://114.246.181.31:4022/rtp/239.3.1.118:8001
@@ -219,95 +219,95 @@ http://123.120.14.68:4022/rtp/239.3.1.118:8001
 http://123.122.140.106:4022/rtp/239.3.1.118:8001
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视[超清HDR]
 http://124.65.0.27:20000/rtp/239.3.1.118:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV新闻[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV新闻[高清]
 http://114.246.181.31:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV新闻[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV新闻[高清]
 http://114.253.255.83:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV新闻[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV新闻[高清]
 http://123.120.14.68:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV新闻[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV新闻[高清]
 http://123.122.140.106:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV新闻[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV新闻[高清]
 http://124.65.0.27:20000/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV影视[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV影视[高清]
 http://114.246.181.31:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV影视[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV影视[高清]
 http://114.253.255.83:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV影视[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV影视[高清]
 http://123.120.14.68:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV影视[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV影视[高清]
 http://123.122.140.106:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV影视[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV影视[高清]
 http://124.65.0.27:20000/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV文艺[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV文艺[高清]
 http://114.246.181.31:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV文艺[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV文艺[高清]
 http://114.253.255.83:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV文艺[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV文艺[高清]
 http://123.120.14.68:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV文艺[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV文艺[高清]
 http://123.122.140.106:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV文艺[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV文艺[高清]
 http://124.65.0.27:20000/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV财经[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV财经[高清]
 http://114.246.181.31:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV财经[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV财经[高清]
 http://114.253.255.83:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV财经[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV财经[高清]
 http://123.120.14.68:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV财经[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV财经[高清]
 http://123.122.140.106:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV财经[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV财经[高清]
 http://124.65.0.27:20000/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV生活[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV生活[高清]
 http://114.246.181.31:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV生活[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV生活[高清]
 http://114.253.255.83:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV生活[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV生活[高清]
 http://123.120.14.68:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV生活[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV生活[高清]
 http://123.122.140.106:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV生活[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV生活[高清]
 http://124.65.0.27:20000/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV纪实科教[高清]
 http://114.246.181.31:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV纪实科教[高清]
 http://114.253.255.83:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV纪实科教[高清]
 http://123.120.14.68:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV纪实科教[高清]
 http://123.122.140.106:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV纪实科教[高清]
 http://124.65.0.27:20000/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿[高清]
 http://114.246.181.31:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿[高清]
 http://114.253.255.83:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿[高清]
 http://123.120.14.68:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿[高清]
 http://123.122.140.106:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿[高清]
 http://124.65.0.27:20000/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV体育休闲[高清]
 http://114.246.181.31:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV体育休闲[高清]
 http://114.253.255.83:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV体育休闲[高清]
 http://123.120.14.68:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV体育休闲[高清]
 http://123.122.140.106:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV体育休闲[高清]
 http://124.65.0.27:20000/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV国际频道[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV国际频道[高清]
 http://114.246.181.31:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV国际频道[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV国际频道[高清]
 http://114.253.255.83:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV国际频道[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV国际频道[高清]
 http://123.120.14.68:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV国际频道[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV国际频道[高清]
 http://123.122.140.106:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV国际频道[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BRTV国际频道[高清]
 http://124.65.0.27:20000/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K[超清]
 http://114.246.181.31:4022/rtp/239.3.1.236:2000
@@ -319,15 +319,15 @@ http://123.120.14.68:4022/rtp/239.3.1.236:2000
 http://123.122.140.106:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K[超清]
 http://124.65.0.27:20000/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",4K超清[超清]
 http://114.246.181.31:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",4K超清[超清]
 http://114.253.255.83:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",4K超清[超清]
 http://123.120.14.68:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",4K超清[超清]
 http://123.122.140.106:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超清[超清]
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",4K超清[超清]
 http://124.65.0.27:20000/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘电影[高清]
 http://114.246.181.31:4022/rtp/239.3.1.250:8001
@@ -409,15 +409,15 @@ http://123.120.14.68:4022/rtp/239.3.1.195:9024
 http://123.122.140.106:4022/rtp/239.3.1.195:9024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典电影
 http://124.65.0.27:20000/rtp/239.3.1.195:9024
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",金鹰纪实[高清]
 http://114.246.181.31:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",金鹰纪实[高清]
 http://114.253.255.83:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",金鹰纪实[高清]
 http://123.120.14.68:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",金鹰纪实[高清]
 http://123.122.140.106:4022/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[高清]
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="未分类",金鹰纪实[高清]
 http://124.65.0.27:20000/rtp/239.3.1.58:8156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游[高清]
 http://114.246.181.31:4022/rtp/239.3.1.207:8001
@@ -489,15 +489,15 @@ http://123.120.14.68:4022/rtp/239.3.1.102:8001
 http://123.122.140.106:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",萌宠TV[高清]
 http://124.65.0.27:20000/rtp/239.3.1.102:8001
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视[高清]
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视[高清]
 http://114.246.181.31:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视[高清]
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视[高清]
 http://114.253.255.83:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视[高清]
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视[高清]
 http://123.120.14.68:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视[高清]
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视[高清]
 http://123.122.140.106:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视[高清]
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视[高清]
 http://124.65.0.27:20000/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视[高清]
 http://114.246.181.31:4022/rtp/239.3.1.136:8032
@@ -829,15 +829,15 @@ http://123.120.14.68:4022/rtp/239.3.1.43:8176
 http://123.122.140.106:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://124.65.0.27:20000/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通[高清]
 http://114.246.181.31:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通[高清]
 http://114.253.255.83:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通[高清]
 http://123.120.14.68:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通[高清]
 http://123.122.140.106:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通[高清]
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通[高清]
 http://124.65.0.27:20000/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",朝阳融媒[高清]
 http://114.246.181.31:4022/rtp/239.3.1.163:8001
@@ -1019,45 +1019,45 @@ http://123.120.14.68:4022/rtp/239.3.1.201:8001
 http://123.122.140.106:4022/rtp/239.3.1.201:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球[高清]
 http://124.65.0.27:20000/rtp/239.3.1.201:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="未分类",茶频道[高清]
 http://114.246.181.31:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="未分类",茶频道[高清]
 http://114.253.255.83:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="未分类",茶频道[高清]
 http://123.120.14.68:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="未分类",茶频道[高清]
 http://123.122.140.106:4022/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道[高清]
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="未分类",茶频道[高清]
 http://124.65.0.27:20000/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="未分类",快乐垂钓[高清]
 http://114.246.181.31:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="未分类",快乐垂钓[高清]
 http://114.253.255.83:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="未分类",快乐垂钓[高清]
 http://123.120.14.68:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="未分类",快乐垂钓[高清]
 http://123.122.140.106:4022/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓[高清]
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="未分类",快乐垂钓[高清]
 http://124.65.0.27:20000/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚[高清]
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",生活时尚[高清]
 http://114.246.181.31:4022/rtp/239.3.1.206:8001
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚[高清]
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",生活时尚[高清]
 http://114.253.255.83:4022/rtp/239.3.1.206:8001
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚[高清]
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",生活时尚[高清]
 http://123.120.14.68:4022/rtp/239.3.1.206:8001
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚[高清]
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",生活时尚[高清]
 http://123.122.140.106:4022/rtp/239.3.1.206:8001
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚[高清]
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",生活时尚[高清]
 http://124.65.0.27:20000/rtp/239.3.1.206:8001
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云[高清]
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",游戏风云[高清]
 http://114.246.181.31:4022/rtp/239.3.1.205:8001
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云[高清]
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",游戏风云[高清]
 http://114.253.255.83:4022/rtp/239.3.1.205:8001
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云[高清]
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",游戏风云[高清]
 http://123.120.14.68:4022/rtp/239.3.1.205:8001
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云[高清]
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",游戏风云[高清]
 http://123.122.140.106:4022/rtp/239.3.1.205:8001
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云[高清]
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",游戏风云[高清]
 http://124.65.0.27:20000/rtp/239.3.1.205:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂[高清]
 http://114.246.181.31:4022/rtp/239.3.1.208:8001
@@ -1069,35 +1069,35 @@ http://123.120.14.68:4022/rtp/239.3.1.208:8001
 http://123.122.140.106:4022/rtp/239.3.1.208:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂[高清]
 http://124.65.0.27:20000/rtp/239.3.1.208:8001
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV1[高清]
 http://114.246.181.31:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV1[高清]
 http://114.253.255.83:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV1[高清]
 http://123.120.14.68:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV1[高清]
 http://123.122.140.106:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV1[高清]
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV1[高清]
 http://124.65.0.27:20000/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV2
 http://114.246.181.31:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV2
 http://114.253.255.83:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV2
 http://123.120.14.68:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV2
 http://123.122.140.106:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV2
 http://124.65.0.27:20000/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV4
 http://114.246.181.31:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV4
 http://114.253.255.83:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV4
 http://123.120.14.68:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV4
 http://123.122.140.106:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV4
 http://124.65.0.27:20000/rtp/239.3.1.56:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",少儿动画
 http://114.246.181.31:4022/rtp/239.3.1.199:9000
@@ -1169,25 +1169,25 @@ http://123.120.14.68:4022/rtp/239.3.1.69:4120
 http://123.122.140.106:4022/rtp/239.3.1.69:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",古装剧场
 http://124.65.0.27:20000/rtp/239.3.1.69:4120
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="未分类",嘉佳卡通
 http://114.246.181.31:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="未分类",嘉佳卡通
 http://114.253.255.83:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="未分类",嘉佳卡通
 http://123.120.14.68:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="未分类",嘉佳卡通
 http://123.122.140.106:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="未分类",嘉佳卡通
 http://124.65.0.27:20000/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="未分类",国学
 http://114.246.181.31:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="未分类",国学
 http://114.253.255.83:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="未分类",国学
 http://123.120.14.68:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="未分类",国学
 http://123.122.140.106:4022/rtp/239.3.1.77:4120
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="未分类",国学
 http://124.65.0.27:20000/rtp/239.3.1.77:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",城市剧场
 http://114.246.181.31:4022/rtp/239.3.1.67:4120
@@ -1299,15 +1299,15 @@ http://123.120.14.68:4022/rtp/239.3.1.72:4120
 http://123.122.140.106:4022/rtp/239.3.1.72:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美妆
 http://124.65.0.27:20000/rtp/239.3.1.72:4120
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="未分类",财富天下
 http://114.246.181.31:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="未分类",财富天下
 http://114.253.255.83:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="未分类",财富天下
 http://123.120.14.68:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="未分类",财富天下
 http://123.122.140.106:4022/rtp/239.3.1.53:9136
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="未分类",财富天下
 http://124.65.0.27:20000/rtp/239.3.1.53:9136
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球
 http://114.246.181.31:4022/rtp/239.3.1.89:4120
@@ -1319,15 +1319,15 @@ http://123.120.14.68:4022/rtp/239.3.1.89:4120
 http://123.122.140.106:4022/rtp/239.3.1.89:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球
 http://124.65.0.27:20000/rtp/239.3.1.89:4120
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通
 http://114.246.181.31:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通
 http://114.253.255.83:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通
 http://123.120.14.68:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通
 http://123.122.140.106:4022/rtp/239.3.1.51:9252
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通
 http://124.65.0.27:20000/rtp/239.3.1.51:9252
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",鉴赏
 http://114.246.181.31:4022/rtp/239.3.1.82:4120
